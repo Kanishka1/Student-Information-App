@@ -1,0 +1,32 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: blanchedalmond;
+
+}
+
+.header,.footer{
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+}
+
+table
+{
+	width: 100%;
+}
+.header h2
+{
+	margin: 0;
+	color: white;
+	font-size:30px; 
+}
+
+
+.footer
+{
+	font-size: 20px;
+	color: white;
+	margin-top: 20px;
+}
